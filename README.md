@@ -16,32 +16,32 @@ Steps to follow :
 
 #### Get all users
 
-```http
+```
   GET /users
 ```
 
 
 #### Get user
 
-```http
+```
   GET /user/${id}
 ```
 
 #### Create user
 
-```http
+```
   POST /user
 ```
 
 #### Update user
 
-```http
+```
   PUT /user/${id}
 ```
 
 #### Delete user
 
-```http
+```
   DELETE /user/${id}
 ```
 
